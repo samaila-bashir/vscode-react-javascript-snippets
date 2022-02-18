@@ -1,7 +1,10 @@
 out
 node_modules
-.vscode-test/
 *.vsix
 *.log
 .DS_Store
 lib/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
